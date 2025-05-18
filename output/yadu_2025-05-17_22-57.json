@@ -1,0 +1,31 @@
+{
+  "plan_id": "cec757b9",
+  "name": "Yadu",
+  "email": "",
+  "timestamp": "2025-05-17_22-57",
+  "profile": {
+    "id": "cec757b9",
+    "age": 28,
+    "marital_status": "single",
+    "dependents": [
+      "parents"
+    ],
+    "income": 900000,
+    "growth_rate": 0.1,
+    "loans": 0,
+    "goals": [
+      "Retirement fund"
+    ],
+    "risk": "low",
+    "preferences": [
+      "ELSS"
+    ],
+    "sip_amount": 12500,
+    "sip_rate": 15
+  },
+  "tax_old": 57500.0,
+  "tax_new": 45000.0,
+  "recommended_regime": "New Regime",
+  "sip_projection": 570993.12,
+  "ai_plan": "## 3-Year Financial Plan (₹900,000 Annual Income)\n\n**I. Tax Planning:**\n\nCompare tax liability under the old and new tax regimes using your specific income and deductions.  Choose the regime offering the lower tax burden.  Consult a tax professional for personalized advice.  This plan does not offer tax advice; the choice is solely the user's responsibility.\n\n**II. Investment Planning:**\n\n| Investment Vehicle | Allocation (₹) | Rationale |\n|---|---|---|\n| **Emergency Fund:** | ₹2,70,000 (3 months' expenses) |  Liquid savings account or short-term FD. |\n| **ELSS SIP:** | ₹72,000 annually (₹6,000 monthly) |  Tax savings and long-term growth. |\n| **PPF:** | ₹1,50,000 annually |  Tax benefits, guaranteed returns, long-term savings. |\n| **Term Insurance:** |  Sufficient coverage (Assess individual needs) | Protect dependents in case of unforeseen circumstances. |\n| **Parent's Healthcare:**  |  As needed | Consider a health insurance plan for parents. |\n\n**Note:** Remaining funds can be allocated to additional investments based on risk tolerance and financial goals.  Regular review and adjustments are recommended.\n\n**III. Goal Progress Tracking:**\n\n* **Track SIP performance:** Monitor ELSS SIP returns regularly through fund statements.\n* **Monitor PPF balance:** Track contributions and interest accrual online.\n* **Review insurance coverage:** Ensure adequate coverage based on life changes and inflation.\n* **Annual review:**  Assess progress toward financial goals at the end of each year.\n\n**IV. Liquidity Management:**\n\nMaintain sufficient funds (emergency fund) in liquid accounts for unexpected expenses.  Avoid over-reliance on credit.  Consider a separate savings account for short-term goals.\n\n**V. Annual Checkpoints:**\n\n* **Year 1:**  Establish emergency fund, begin ELSS SIP and PPF contributions, secure term and health insurance.\n* **Year 2:**  Review portfolio performance, adjust investments based on performance and changing needs.\n* **Year 3:**  Assess progress towards retirement fund goal, make any necessary adjustments to investment strategy. Re-evaluate insurance coverage.\n\n**Disclaimer:** This is a sample financial plan and does not constitute financial advice.  Seek professional advice from a qualified financial advisor before making any investment decisions.  Investment returns are subject to market risk.\n"
+}

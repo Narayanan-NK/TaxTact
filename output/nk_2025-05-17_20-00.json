@@ -1,0 +1,25 @@
+{
+  "name": "nk",
+  "email": "nk@test.com",
+  "timestamp": "2025-05-17_20-00",
+  "profile": {
+    "age": 30,
+    "marital_status": "single",
+    "dependents": [
+      "parents"
+    ],
+    "income": 1200000,
+    "growth_rate": 0.1,
+    "loans": 200000,
+    "goals": [
+      "Save ₹10L corpus"
+    ],
+    "risk": "high",
+    "preferences": [
+      "NPS"
+    ]
+  },
+  "tax_old": 120000.0,
+  "sip_projection": 435076.47,
+  "ai_plan": "## 3-Year Financial Plan: ₹10 Lakh Corpus Goal\n\n**Assumptions:**  No assumptions made regarding tax regime preference, specific investment choices within asset classes etc.  User must independently research and select suitable products.  Tax laws are subject to change.\n\n**1. Tax Planning:**\n\n| Feature        | Old Regime                               | New Regime                                   | Recommendation                               |\n|----------------|-------------------------------------------|---------------------------------------------|-----------------------------------------------|\n| Income Tax     | Calculate tax liability based on applicable slabs and deductions (e.g., 80C, HRA).  | Calculate tax liability based on new slab rates and deductions. | Compare tax liability under both regimes using your actual income and deductions. Choose the regime that results in lower tax liability. |\n| Investments    | Utilize 80C deductions (ELSS, PPF, NPS).   | Utilize new regime deductions.                | Align investments with the chosen tax regime for maximum deduction benefits.  |\n\n\n**2. Investment Planning:**\n\n* **Emergency Fund:** Maintain 6-12 months' worth of expenses in a liquid savings account or a short-term FD.  Target ₹6-12 lakhs.\n* **NPS:** Contribute the maximum permissible amount under Section 80CCD(1B) for additional tax benefits.  Consider increasing contributions based on surplus funds.\n* **ELSS:** Invest a significant portion of the remaining investable amount in ELSS funds via SIPs for long-term growth and tax benefits (Section 80C).  High risk appetite allows for higher allocation to equities.\n* **PPF:** Consider supplementing ELSS investments with PPF for a mix of growth and stability.\n* **Insurance:** Ensure adequate life and health insurance coverage based on individual needs and risk profile.  Parental health insurance should also be considered.\n\n**Specific Allocation (Illustrative):**  Allocation depends on risk tolerance and market conditions; this is an example only.\n\n| Investment     | Allocation (%) | Rationale                                         |\n|-----------------|-----------------|----------------------------------------------------|\n| Emergency Fund  | 10-20            | Liquidity and risk mitigation                       |\n| NPS              | 20-30            | Tax benefits, long-term growth, Pension provision |\n| ELSS (SIPs)     | 40-50            | High growth potential, tax benefits                    |\n| PPF              | 10-20            | Stability and assured returns                      |\n| Insurance        |  Remaining       | Risk mitigation                                      |\n\n\n**3. Goal Progress Tracking:**\n\n* Monitor investment performance quarterly.\n* Regularly review portfolio allocation against goal.\n* Adjust investment strategy as needed based on market conditions and financial goals.\n* Utilize online tools or spreadsheets to track progress.\n\n\n**4. Liquidity Management:**\n\n* Maintain sufficient balance in savings accounts to meet immediate expenses.\n* Plan for regular expenses to avoid unplanned withdrawals from investments.\n* Rebalance portfolio periodically to ensure appropriate allocation among asset classes.\n\n\n**5. Annual Checkpoints:**\n\n* **Year 1:** Review emergency fund adequacy, assess investment performance, adjust SIP amounts if needed, review insurance coverage.\n* **Year 2:**  Rebalance portfolio if required, reassess goal progress, review tax implications, consider increasing investments to accelerate goal achievement.\n* **Year 3:** Final review of goal progress, potential adjustment of investments if corpus target is not met, final tax planning.\n\n**Disclaimer:** This is a sample financial plan and doesn't constitute financial advice.  Consult a qualified financial advisor for personalized guidance.  Investment decisions depend on market conditions and individual circumstances.  Past performance is not indicative of future results.\n"
+}

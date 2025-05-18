@@ -1,0 +1,29 @@
+{
+  "plan_id": "b5234a2e",
+  "name": "Yadu",
+  "email": "yadunarayanan@gmail.com",
+  "timestamp": "2025-05-17_22-43",
+  "profile": {
+    "id": "b5234a2e",
+    "age": 27,
+    "marital_status": "single",
+    "dependents": [
+      "parents"
+    ],
+    "income": 800000,
+    "growth_rate": 0.1,
+    "loans": 0,
+    "goals": [
+      "Buy a house"
+    ],
+    "risk": "low",
+    "preferences": [
+      "ELSS"
+    ]
+  },
+  "tax_old": 37500.0,
+  "tax_new": 35000.0,
+  "recommended_regime": "New Regime",
+  "sip_projection": 435076.47,
+  "ai_plan": "## 3-Year Financial Plan (₹INR)\n\n**User Profile:** Age: 27, Single, Dependents: Parents, Income: ₹800,000, Goal: House Purchase, Risk Appetite: Low, Preference: ELSS\n\n\n**1. Tax Planning:**\n\nAnalyze both Old and New tax regimes based on your specific deductions and investments to determine the most tax-efficient option.  Consult a tax professional for personalized advice.  This plan assumes the selection of the most advantageous regime after this analysis.  No specific regime is recommended here without that data.\n\n\n**2. Investment Planning:**\n\n| Investment Vehicle | Allocation (₹) | Strategy | Rationale |\n|---|---|---|---|\n| **Emergency Fund** | ₹240,000 (3 months expenses) |  Create within 6 months | Covers unexpected expenses. |\n| **ELSS Mutual Funds (SIP)** | ₹10,000/month | Invest in diversified ELSS funds with a low expense ratio. | Tax saving and long-term growth aligned with risk preference.|\n| **PPF** | ₹1.5 Lakhs (Maximum allowed) | Invest the full amount annually. | Tax benefits and assured returns. |\n| **Life Insurance (Term Insurance)** | ₹50,000 annual premium | Secure a term plan with adequate coverage.  | Protect against financial losses to dependents. |\n| **Parental Health Insurance** | Evaluate existing coverage, additional coverage as needed. | Ensure adequate health insurance for parents. | Financial protection against medical emergencies. |\n| **House Down Payment Savings** | Remaining amount (after above allocations) | Invest in low-risk debt instruments like FD’s or debt mutual funds until ready for house down payment. | Dedicated savings for house purchase. |\n\n**3. Goal Progress Tracking:**\n\n* **Monthly:** Track SIP investments, PPF contributions, and emergency fund growth.\n* **Quarterly:** Review investment performance and adjust as needed based on market conditions (with professional advice).\n* **Annually:** Assess progress towards house down payment goal. Adjust savings based on progress and any changes in financial circumstances.\n\n**4. Liquidity Management:**\n\n* Maintain a readily accessible emergency fund (3-6 months of expenses) in a savings account or liquid mutual fund.\n* Regularly review and adjust emergency fund as needed.\n\n\n**5. Annual Checkpoints:**\n\n* **Year 1:** Complete emergency fund allocation. Initiate all SIPs and PPF contributions. Review tax planning based on actual income and expenses. Secure health insurance for parents.\n* **Year 2:** Evaluate progress toward house down payment goal. Consider increasing savings if needed. Review investment portfolio performance and make adjustments as needed with professional advice.\n* **Year 3:** Finalize house purchase planning including loan applications if applicable. Re-evaluate financial plan based on progress and remaining house down payment required.\n\n**Disclaimer:** This is a sample financial plan and may not be suitable for all individuals.  Seek professional financial advice before making any investment decisions.  This plan does not include consideration for specific loan options or house purchase costs.  Regular review and adjustments are necessary to adapt to changing circumstances.\n"
+}

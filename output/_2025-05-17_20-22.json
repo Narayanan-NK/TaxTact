@@ -1,0 +1,25 @@
+{
+  "name": "",
+  "email": "",
+  "timestamp": "2025-05-17_20-22",
+  "profile": {
+    "age": 30,
+    "marital_status": "single",
+    "dependents": [],
+    "income": 1200000,
+    "growth_rate": 0.1,
+    "loans": 0,
+    "goals": [
+      "Save ₹10L corpus"
+    ],
+    "risk": "moderate",
+    "preferences": [
+      "FD"
+    ]
+  },
+  "tax_old": 120000.0,
+  "tax_new": 90000.0,
+  "recommended_regime": "New Regime",
+  "sip_projection": 435076.47,
+  "ai_plan": "## 3-Year Financial Plan: ₹10 Lakh Corpus\n\n**Assumptions:**  All figures in Indian Rupees (₹).  Inflation is not explicitly factored; adjustments may be needed based on actual inflation rates.  Tax rates are subject to change.\n\n**1. Tax Planning:**\n\nAnalyze both the Old and New tax regimes to determine which offers greater tax savings based on your specific deductions and investments.  Consult a tax professional for personalized advice.  Recommendation: Explore deductions under 80C (PPF, ELSS), 80D (health insurance).\n\n\n**2. Investment Planning:**\n\n| Investment Vehicle | Allocation (₹) | Rationale | Frequency |\n|---|---|---|---|\n| **Emergency Fund:** | ₹300,000 | 3 months' expenses | One-time contribution |\n| **PPF:** | ₹1.5 Lakh annually | Tax benefits, long-term growth | Annual |\n| **ELSS (SIP):** | ₹10,000 monthly | Tax benefits, potential for higher returns | Monthly |\n| **Fixed Deposit (FD):** |  Balance of remaining savings |  Safety, moderate returns |  As needed to reach goal |\n\n**Note:** The ELSS SIP amount is a suggestion; adjust based on risk tolerance and goal timeline.  FDs will be utilized to make up any shortfall in the ELSS or PPF performance needed to meet the ₹10 lakh goal.  Insurance needs assessment and appropriate plan selection are recommended separately.\n\n**3. Goal Progress Tracking:**\n\n* **Monthly:** Track SIP contributions, FD interest accrual.\n* **Quarterly:** Review investment performance, adjust investment strategy as needed (consult financial advisor).\n* **Annually:** Assess progress towards ₹10 lakh goal; make adjustments to SIP amounts or FD contributions.\n\n**4. Liquidity Management:**\n\n* Maintain a liquid emergency fund (3-6 months' expenses).\n* Utilize FDs for additional short-term liquidity needs.\n\n**5. Annual Checkpoints:**\n\n* **Year 1:** Review tax planning effectiveness, assess ELSS performance.  Check emergency fund adequacy.\n* **Year 2:**  Review overall portfolio performance.  Adjust investments based on progress toward goal. Assess need for additional insurance coverage.\n* **Year 3:**  Assess overall performance, make necessary adjustments. Plan for efficient utilization of the accumulated corpus (assuming goal met or nearing completion).\n\n**Disclaimer:** This is a sample plan.  It's crucial to consult with a qualified financial advisor for personalized advice tailored to your individual circumstances and risk tolerance. This plan does not constitute financial advice.\n"
+}

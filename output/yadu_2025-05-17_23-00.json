@@ -1,0 +1,31 @@
+{
+  "plan_id": "9dd9fdf2",
+  "name": "Yadu",
+  "email": "",
+  "timestamp": "2025-05-17_23-00",
+  "profile": {
+    "id": "9dd9fdf2",
+    "age": 28,
+    "marital_status": "single",
+    "dependents": [
+      "parents"
+    ],
+    "income": 1200001,
+    "growth_rate": 0.1,
+    "loans": 0,
+    "goals": [
+      "Retirement fund"
+    ],
+    "risk": "low",
+    "preferences": [
+      "ELSS"
+    ],
+    "sip_amount": 11500,
+    "sip_rate": 10
+  },
+  "tax_old": 120000.3,
+  "tax_new": 90000.2,
+  "recommended_regime": "New Regime",
+  "sip_projection": 484495.03,
+  "ai_plan": "## 3-Year Financial Plan (₹INR)\n\n**User Profile:** Age: 28, Single, Dependents: Parents, Income: ₹1,200,001, Goals: Retirement, Risk Appetite: Low, Preference: ELSS\n\n**Disclaimer:** This plan is a suggestion only.  Consult a qualified financial advisor for personalized advice.  Tax laws are subject to change.\n\n### 1. Tax Planning:\n\n**Comparative Analysis (Old vs. New Regime):**  Requires detailed income breakdown (salaries, investments, etc.) to determine optimal regime.  Analyze both regimes based on your specific income sources and deductions to identify the most tax-efficient option.  Consult a tax professional for this analysis.\n\n**Recommendation:**  Determine the most beneficial tax regime (Old or New) based on personalized analysis. Utilize available deductions under the chosen regime to minimize tax liability.  Consider tax-saving investments like ELSS.\n\n### 2. Investment Planning:\n\n**A. Emergency Fund:** Maintain 6-12 months of living expenses in a liquid account (savings account, liquid funds).  Target: ₹600,000 - ₹1,200,000.\n\n**B. Retirement Fund:**\n\n* **ELSS SIP:** Invest ₹10,000 monthly in ELSS mutual funds (tax saving). This utilizes your preference and contributes to retirement while providing tax benefits.\n* **PPF:**  Invest the maximum allowable amount annually (₹1.5 lakh). Provides long-term growth and tax benefits.\n\n\n**C. Insurance:**\n\n* **Term Insurance:** Secure adequate term life insurance coverage to protect your dependents. Calculate coverage based on your income and dependents' needs.\n* **Health Insurance:** Ensure comprehensive health insurance coverage for yourself and your parents.\n\n### 3. Goal Progress Tracking:\n\n* **Regular Monitoring:** Track investment performance quarterly. Review portfolio allocation annually.\n* **Performance Measurement:**  Compare actual returns to expected returns (based on chosen investment vehicles).\n* **Adjustment:** Adjust investment strategy as needed based on performance, changing financial circumstances, and goal progress.\n\n### 4. Liquidity Management:\n\n* **Emergency Fund:** Ensure sufficient funds are readily available in the emergency fund.\n* **Short-Term Needs:** Utilize savings account or liquid funds for immediate needs.\n* **Long-Term Needs:** Allocate funds to appropriate long-term investment options (ELSS, PPF).\n\n### 5. Annual Checkpoints:\n\n* **Year 1:** Review investment performance, adjust portfolio as needed, reassess tax implications based on income, and ensure emergency fund is adequately funded.\n* **Year 2:**  Repeat Year 1 activities.  Assess progress toward retirement goal.  Consider increasing SIP amount if feasible.\n* **Year 3:**  Repeat Year 1 and Year 2 activities.  Conduct a comprehensive review of the overall financial plan, making adjustments for future years.  Consider increasing PPF contributions if possible.\n\n\n**Note:** This plan uses broad estimates.  A personalized plan requires detailed financial information and professional consultation.  Investment returns are not guaranteed.\n"
+}

@@ -1,0 +1,38 @@
+{
+  "plan_id": "5cfaeb03",
+  "name": "Arpith Baiju",
+  "email": "arpith@emvigotech.com",
+  "timestamp": "2025-05-18_10-40",
+  "profile": {
+    "id": "5cfaeb03",
+    "age": 26,
+    "marital_status": "single",
+    "dependents": [
+      "parents"
+    ],
+    "income": 600000,
+    "growth_rate": 0.15,
+    "loans": 550000,
+    "goals": [
+      "Save ₹10L corpus"
+    ],
+    "risk": "moderate",
+    "preferences": [
+      "FD"
+    ],
+    "sip_amount": 5000,
+    "sip_rate": 10,
+    "sip_years": 5,
+    "savings_percent": 30,
+    "target_corpus": 1000000,
+    "city_tier": "Tier 2",
+    "has_insurance": "Yes",
+    "owns_home": "Yes",
+    "existing_investments": 100000
+  },
+  "tax_old": 8750.0,
+  "tax_new": 15000.0,
+  "recommended_regime": "Old Regime",
+  "sip_projection": 390411.91,
+  "ai_plan": "⚠️ Using fallback model (gemini-1.5-flash) due to quota limits.\n\n## Personalized 3-Year Financial Strategy\n\nThis plan focuses on achieving your ₹1,000,000 corpus within three years, while acknowledging your moderate risk appetite and preference for FDs.  Given your existing investments and income growth projections, a diversified approach incorporating higher-return options alongside FDs will be crucial.  The 15% annual income growth is ambitious; maintaining this requires consistent career progression and performance.\n\n### Tax Planning: Old vs New Regime\n\n| Feature          | Old Regime                               | New Regime                                   |\n|-----------------|-------------------------------------------|---------------------------------------------|\n| Tax Slabs        | 0-₹2.5L: 0%, 2.5-5L: 5%, 5-10L: 20%, 10+L: 30% | 0-₹3L: 0%, 3-6L: 5%, 6-9L: 10%, 9-12L: 15%, 12+L: 20% |\n| Deductions      | 80C (max ₹1.5L), HRA, others             | 80C (max ₹1.5L), limited deductions        |\n| Applicability    | Income dependent; potentially advantageous | Simpler structure, potentially lower tax     |\n| Recommendation  | Analyze your deductions. If eligible for significant 80C and HRA deductions, the old regime might be better. Otherwise, the new regime offers simplicity. |\n\n\n**Note:**  This is a simplified comparison. Seek professional tax advice for personalized optimization.  Consider consulting a Chartered Accountant (CA) to determine the most tax-efficient regime based on your specific deductions and investments.\n\n\n### SIP Strategy and Projections (₹)\n\n| Year | Starting SIP (₹) | Estimated Yearly Returns (₹) | Ending SIP Value (₹) |\n|---|---|---|---|\n| 1 | 60,000 | 6,000 | 66,000 |\n| 2 | 60,000 | 12,600 | 138,600 |\n| 3 | 60,000 | 19,860 | 218,460 |\n\n**Note:** This assumes a consistent 10% annual return on your SIP investments.  Actual returns may vary. The calculation only considers your existing SIP of ₹5,000 monthly, and doesn’t account for additional investments suggested below.\n\n\n### Insurance Recommendations\n\n* **Term Insurance:** Ensure adequate coverage (minimum 10-15 times your annual income) to protect your parents in case of unforeseen circumstances. Review your existing policy to ensure it aligns with your current needs and financial goals.\n* **Health Insurance:** Comprehensive health insurance for yourself and your parents is crucial, covering hospitalization, critical illnesses, and other medical expenses.  Explore family floater plans for cost-effectiveness.\n\n### Housing Advice (Rent vs Buy)\n\nGiven that you already own a home in a Tier 2 city, renting is unlikely to be a financially viable option in the short term.  Focus on maximizing the value of your existing asset.  If considering property investment, carefully analyze market trends and potential appreciation before making any purchase.\n\n###  Investment Strategy for ₹10 Lakh Corpus\n\nGiven your moderate risk profile and a 3-year timeframe, a mixed portfolio is recommended. Diversification is crucial:\n\n* **Fixed Deposits (FDs):** Allocate a portion (e.g., ₹300,000) to FDs for guaranteed returns and stability.\n* **Mutual Funds (Moderate Risk):** Invest a significant portion (e.g., ₹500,000) in diversified equity mutual funds to benefit from potential higher returns. Consider balanced funds or multi-cap funds. Consult with a financial advisor for specific fund recommendations aligned with your risk tolerance.\n* **Debt Mutual Funds:** Allocate a portion (e.g., ₹200,000)  to debt mutual funds for relatively lower risk compared to equity while maintaining liquidity.\n\n\n### Estimated Net Worth Growth (₹)\n\n| Year | Income (₹) | Savings (₹)  | Investments (₹) | Loan (₹) | Net Worth (₹) |\n|---|---|---|---|---|---|\n| Current | 600,000 | 180,000 | 100,000  | 550,000 | -270,000 |\n| Year 1 | 690,000 | 207,000 | 407,000  | 550,000 | 50,000 |\n| Year 2 | 793,500 | 238,050 | 645,050 | 550,000 | 145,050 |\n| Year 3 | 912,025 | 273,607 | 918,657 | 0 | 1,018,657 |\n\n\n**Note:** This is a projection and assumes consistent income growth at 15%, successful loan repayment by year 3, and the planned investments yielding returns as per strategy.  Actual figures may vary significantly depending on market conditions and unforeseen expenses.\n\n\n**Disclaimer:** This is a sample financial plan and does not constitute financial advice.  Consult with a qualified financial advisor for personalized guidance tailored to your specific circumstances. This plan assumes a high rate of income growth that may not be sustainable.  Regular review and adjustments are crucial for effective financial planning.\n"
+}

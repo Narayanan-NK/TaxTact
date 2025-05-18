@@ -1,0 +1,30 @@
+{
+  "name": "Narayanan",
+  "email": "narayanan@outlook.com",
+  "timestamp": "2025-05-17_19-41",
+  "profile": {
+    "age": 27,
+    "marital_status": "single",
+    "dependents": [
+      "parents"
+    ],
+    "income": 1500000,
+    "growth_rate": 0.15,
+    "loans": 0,
+    "goals": [
+      "Save ₹10L corpus"
+    ],
+    "risk": "moderate",
+    "preferences": [
+      "NPS",
+      "FD",
+      "PPF",
+      "ELSS",
+      "SIP",
+      "Term Insurance"
+    ]
+  },
+  "tax_old": 210000.0,
+  "sip_projection": 435076.47,
+  "ai_plan": "## 3-Year Financial Plan (₹INR)\n\n**User Profile:** Age: 27, Single, Dependents: Parents, Income: ₹1,500,000, Goal: ₹10,00,000 Corpus, Risk Appetite: Moderate, Preferences: NPS, FD, PPF, ELSS, SIP, Term Insurance\n\n**1. Tax Planning:**\n\nCompare tax liability under the old and new tax regimes using your specific deductions and investments.  Consult a tax professional for personalized advice.  This plan assumes the most beneficial regime is chosen.  Consider maximizing 80C deductions (PPF, ELSS SIPs) and 80D (health insurance).\n\n\n**2. Investment Planning:**\n\n| Investment Vehicle | Allocation (₹) | Rationale |\n|---|---|---|\n| **Emergency Fund:** | ₹3,00,000 (6 months expenses) | Liquid FD or Savings Account  |\n| **Term Insurance:** |  ₹50,000 - ₹100,000 (Annual Premium) |  Adequate life cover based on individual need & dependents.  |\n| **PPF:** | ₹1,50,000 (Annual Contribution) | Maximum allowed, long-term tax benefits. |\n| **ELSS SIP:** | ₹50,000 (Annual Investment) | Moderate risk, tax benefits under 80C. |\n| **NPS:** |  ₹50,000 (Annual Investment) | Long-term retirement savings, tax benefits. |\n| **FD (Remaining):** |  Remaining amount from annual savings allocated to FDs  | Liquidity & stability. |\n\n\n**Note:** The ELSS SIP, NPS, and FD amounts can be adjusted based on individual risk tolerance and market conditions.  The SIP amount in ELSS can be increased gradually to optimize returns.\n\n**3. Goal Progress Tracking:**\n\n* **Quarterly Review:** Track investment performance, compare against target corpus.  Adjust investments as needed based on market performance.\n* **Annual Review:** Comprehensive review of all investments, tax implications, and goal progress. Adjust strategy based on performance and changing circumstances.\n\n**4. Liquidity Management:**\n\nMaintain a minimum balance of ₹3,00,000 in liquid assets (savings account, FD) to cover 6 months of expenses.  Regularly monitor this balance to avoid liquidity constraints.\n\n\n**5. Annual Checkpoints:**\n\n* **Year 1:** Review investment performance, ensure all contributions are on track.  Adjust strategy if required based on market conditions.\n* **Year 2:**  Mid-term review focusing on goal progress and risk tolerance. Consider increasing investments if on track.  Reassess tax planning strategy.\n* **Year 3:** Final year review, assess corpus accumulation against the goal (₹10,00,000).  Adjust allocations or investment strategy if needed to meet the target.\n\n\n**Disclaimer:** This is a sample financial plan.  Investment decisions should be made after careful consideration and possibly after seeking advice from a qualified financial advisor.  Returns are not guaranteed, and market conditions can impact investment performance.  Tax laws are subject to change.\n"
+}

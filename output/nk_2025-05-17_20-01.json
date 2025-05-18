@@ -1,0 +1,26 @@
+{
+  "name": "nk",
+  "email": "nk@test.com",
+  "timestamp": "2025-05-17_20-01",
+  "profile": {
+    "age": 30,
+    "marital_status": "single",
+    "dependents": [
+      "parents"
+    ],
+    "income": 1400000,
+    "growth_rate": 0.15,
+    "loans": 200000,
+    "goals": [
+      "Save ₹10L corpus"
+    ],
+    "risk": "high",
+    "preferences": [
+      "NPS",
+      "PPF"
+    ]
+  },
+  "tax_old": 180000.0,
+  "sip_projection": 435076.47,
+  "ai_plan": "## 3-Year Financial Plan (₹1,400,000 Annual Income)\n\n**I. Tax Planning:**\n\nAnalyze both the Old and New tax regimes based on your specific deductions and investments to determine the most tax-efficient option for your income level.  Consult a tax professional for personalized advice.  Consider maximizing tax-saving investments within the chosen regime.\n\n\n**II. Investment Planning:**\n\n| Investment Vehicle | Allocation (₹) | Rationale | Strategy |\n|---|---|---|---|\n| **Emergency Fund** | 600,000 (6 months expenses) | Covers unexpected events. | Maintain in a liquid savings account or a short-term FD. |\n| **NPS (Tier I)** | 50,000 (Annual) | Long-term retirement savings, tax benefits. |  Invest the maximum permissible amount each year. |\n| **PPF** | 150,000 (Annual) | Long-term savings, tax benefits. | Invest the maximum permissible amount each year. |\n| **ELSS SIP** | 100,000 (Annual) | Equity investment for long-term growth, tax benefits. | Choose a diversified ELSS fund; consider monthly SIPs. |\n| **High-Risk Equity SIP**  | 100,000 (Annual) |  Higher growth potential for corpus goal. | Invest in a diversified equity mutual fund with a high growth potential.  Monitor performance closely.|\n\n\n**III. Goal Progress Tracking:**\n\n* **Monthly:** Track investment contributions, portfolio performance (mutual funds, etc.), and emergency fund balance.\n* **Quarterly:** Review investment performance against benchmarks, adjust strategy if needed (rebalancing).\n* **Annually:** Evaluate the progress towards the ₹10L corpus goal, assess tax implications, and rebalance portfolio if required.  Analyze if adjustments are necessary to achieve the goal within the 3-year timeframe.\n\n**IV. Liquidity Management:**\n\nMaintain a minimum of 6 months of living expenses (₹600,000) in a liquid savings account for emergency purposes.  Ensure ready access to funds for unexpected situations.  Consider a separate account for systematic investments.\n\n**V. Annual Checkpoints:**\n\n* **Review:**  Assess portfolio performance against targets. Adjust the investment strategy if necessary based on market conditions and goal progress.\n* **Tax Optimization:** Optimize tax planning within the chosen regime by adjusting investments based on year-to-date performance.\n* **Rebalancing:** Rebalance the investment portfolio to maintain the desired asset allocation.\n* **Goal Adjustment:** If goal progress is lagging, consider increasing the monthly SIP investment amounts or adjusting the investment strategy accordingly.\n\n\n\n**Disclaimer:** This is a sample plan and may not be suitable for all individuals.  Consult with a qualified financial advisor for personalized advice tailored to your specific circumstances and risk tolerance.  Investment returns are not guaranteed and past performance is not indicative of future results.  Tax laws are subject to change.\n"
+}

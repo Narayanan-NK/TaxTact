@@ -1,0 +1,29 @@
+{
+  "plan_id": "95b1bf5e",
+  "name": "Narayanan",
+  "email": "narayanan.k@gmail.com",
+  "timestamp": "2025-05-17_22-00",
+  "profile": {
+    "id": "95b1bf5e",
+    "age": 28,
+    "marital_status": "single",
+    "dependents": [
+      "parents"
+    ],
+    "income": 1200000,
+    "growth_rate": 0.15,
+    "loans": 0,
+    "goals": [
+      "Save ₹10L corpus"
+    ],
+    "risk": "moderate",
+    "preferences": [
+      "NPS"
+    ]
+  },
+  "tax_old": 120000.0,
+  "tax_new": 90000.0,
+  "recommended_regime": "New Regime",
+  "sip_projection": 435076.47,
+  "ai_plan": "## 3-Year Financial Plan (₹ INR)\n\n**User Profile:** Age: 28, Single, Dependents: Parents, Income: 1,200,000, Goal: Save ₹10,00,000 corpus in 3 years, Risk Appetite: Moderate, Preference: NPS\n\n**1. Tax Planning:**\n\nCompare tax liability under both Old and New tax regimes using your specific income and investments.  Consult a tax professional for personalized advice as this plan provides only general recommendations.  The choice depends on your specific deductions and investments.\n\n* **Recommendation:** Analyze both regimes using tax calculators and relevant financial documents to determine the most beneficial option.\n\n**2. Investment Planning:**\n\n| Investment Vehicle | Allocation (₹) | Rationale                                                                    | Frequency |\n|--------------------|-----------------|--------------------------------------------------------------------------------|-----------|\n| **Emergency Fund** | 600,000        | 6 months' expenses; highly liquid instrument like savings account/FD       | One-time  |\n| **NPS (Tier I)**   | 200,000 (per year)| Long-term retirement savings; tax benefits under 80CCD(1B)                  | Monthly SIP |\n| **ELSS SIP**        | 100,000 (per year)| Tax savings under 80C; long-term growth potential                         | Monthly SIP |\n| **PPF**           | 150,000 (per year) | Long-term tax-free returns; maximum contribution allowed under 80C          | Annual    |\n| **Mutual Funds (Moderate)** | 150,000 (per year) | Diversification beyond ELSS; potential for higher returns                  | Monthly SIP|\n\n\n**Note:**  The above mutual fund allocation can be adjusted based on market conditions and individual preferences within the moderate risk category.  Consider investing in Index Funds or diversified equity funds. Insurance needs (health and term life) should be addressed separately.\n\n**3. Goal Progress Tracking:**\n\n* **Method:** Use a spreadsheet or financial tracking app to monitor the corpus growth against the target.  Track individual investment performance, contributions, and overall portfolio value.\n* **Frequency:** Review monthly/quarterly.\n\n**4. Liquidity Management:**\n\n* **Emergency Fund:** Maintain ₹600,000 in a highly liquid account (Savings Account/FD).\n* **Short-term goals:**  Allocate funds for unforeseen expenses from the emergency fund, avoiding using investments for short-term needs.\n\n\n**5. Annual Checkpoints:**\n\n* **Review Investment Portfolio:** Assess performance, rebalance if necessary, and adjust the allocation based on market conditions and goal progress.\n* **Tax Planning:** Review tax implications of the investments made during the year and plan for the next financial year.\n* **Goal Assessment:** Analyze progress toward the ₹10,00,000 savings goal.  Adjust investments if necessary to stay on track.\n* **Emergency Fund:** Verify sufficiency and replenish if needed.\n\n\n**Disclaimer:** This is a sample plan.  Consult with a qualified financial advisor for personalized advice tailored to your specific circumstances and risk tolerance before making any investment decisions.  Tax laws are subject to change.\n"
+}

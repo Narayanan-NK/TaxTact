@@ -1,0 +1,11 @@
+{
+  "age": 30,
+  "marital_status": "single",
+  "dependents": ["parents"],
+  "income": 1200000,
+  "growth_rate": 0.1,
+  "loans": 200000,
+  "goals": ["Buy a house", "Save ₹10L corpus"],
+  "risk": "moderate",
+  "preferences": ["ELSS", "PPF", "SIP", "Term Insurance"]
+}
